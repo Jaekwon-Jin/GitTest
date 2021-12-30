@@ -1,3 +1,2 @@
-HI
-HELLO
-HELLOWORLD
+안녕 깃허브
+테스트
